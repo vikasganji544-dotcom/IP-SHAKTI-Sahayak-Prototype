@@ -1,0 +1,12 @@
+# Environments
+.env
+venv/
+env/
+__pycache__/
+
+# ChromaDB Cache (if you move to persistent storage later)
+chroma_db/
+*.sqlite3
+
+# OS Files
+.DS_Store
